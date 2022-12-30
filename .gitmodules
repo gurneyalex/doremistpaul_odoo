@@ -37,3 +37,12 @@
 [submodule "odoo/external-src/l10n-france"]
 	path = odoo/external-src/l10n-france
 	url = https://github.com/OCA/l10n-france
+	branch = 15.0
+[submodule "odoo/external-src/server-tools"]
+	path = odoo/external-src/server-tools
+	url = https://github.com/OCA/server-tools
+	branch = 15.0
+[submodule "odoo/external-src/server-ux"]
+	path = odoo/external-src/server-ux
+	url = https://github.com/OCA/server-ux
+	branch = 15.0

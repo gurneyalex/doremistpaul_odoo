@@ -26,3 +26,7 @@
 	path = odoo/external-src/account-reconcile
 	url = https://github.com/oca/account-reconcile
 	branch = 15.0
+[submodule "odoo/src"]
+	path = odoo/src
+	url = https://github.com/odoo/odoo
+	branch = 15.0

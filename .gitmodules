@@ -1,0 +1,28 @@
+[submodule "odoo/external-src/web"]
+	path = odoo/external-src/web
+	url = https://github.com/oca/web
+	branch = 15.0
+[submodule "odoo/external-src/vertical-association"]
+	path = odoo/external-src/vertical-association
+	url = https://github.com/oca/vertical-association
+	branch = 15.0
+[submodule "odoo/external-src/event"]
+	path = odoo/external-src/event
+	url = https://github.com/oca/event
+	branch = 15.0
+[submodule "odoo/external-src/hr"]
+	path = odoo/external-src/hr
+	url = https://github.com/oca/hr
+	branch = 15.0
+[submodule "odoo/external-src/account-financial-reporting"]
+	path = odoo/external-src/account-financial-reporting
+	url = https://github.com/oca/account-financial-reporting
+	branch = 15.0
+[submodule "odoo/external-src/account-financial-tools"]
+	path = odoo/external-src/account-financial-tools
+	url = https://github.com/oca/account-financial-tools
+	branch = 15.0
+[submodule "odoo/external-src/account-reconcile"]
+	path = odoo/external-src/account-reconcile
+	url = https://github.com/oca/account-reconcile
+	branch = 15.0
